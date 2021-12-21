@@ -8,7 +8,7 @@
 - É realizado uma consulta a API e inserido no banco local dados relacionados a voos espaciais.
 - Pode-se acessar lista de artigos e artigos individuais.
 
-### :hammer_pick: Tecnologias
+### :wrench: Tecnologias
 - Elixir
 - Phoenix Framework
 - Tailwind CSS
@@ -19,7 +19,7 @@
 - Instale as dependências: `mix deps.get`
 - Crie e migre o banco de dados: `mix ecto.setup`
 - Inicie o servidor com: `mix phx.server`
-- Agora acesse [`localhost: 4001`] (http: // localhost: 4001) de seu navegador.
+- Agora acesse [`localhost: 4001`] (http://localhost:4001) de seu navegador.
 
 ### :movie_camera: Vídeo de apresentação
 - [`https://youtu.be/VjNW8DTFXo8`] (https://youtu.be/VjNW8DTFXo8)
