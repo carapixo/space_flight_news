@@ -1,7 +1,7 @@
 # Back-end Challenge 🏅 2021 - Space Flight News
 
 ### :white_check_mark: Título
-- Space flight News
+- Space Flight News
 
 ### :keyboard: Descrição
 - Este repositório consiste em uma REST API que utiliza dados do projeto [Space Flight News](https://api.spaceflightnewsapi.net/v3/documentation).
@@ -12,7 +12,7 @@
 - Elixir
 - Phoenix Framework
 - Tailwind CSS
-- Postgres (DB)
+- PostgreSQL (DB)
 
 ### :computer: Como usar
 - Faça o clone do projeto
